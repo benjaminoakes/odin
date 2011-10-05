@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Benjamin Oakes"]
   s.email       = ["hello@benjaminoakes.com"]
   s.homepage    = "http://github.com/benjaminoakes/odin"
-  s.summary     = %q{A parser for human languages.}
+  s.summary     = %q{An ATN-based parser for human languages, such as English.}
   s.description = s.summary
 
   s.rubyforge_project = "odin"
