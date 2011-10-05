@@ -6,13 +6,17 @@ Gem::Specification.new do |s|
   s.name        = "odin"
   s.version     = Odin::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Benjamin Oakes"]
+  s.email       = ["hello@benjaminoakes.com"]
+  s.homepage    = "http://github.com/benjaminoakes/odin"
+  s.summary     = %q{A parser for human languages.}
+  s.description = s.summary
 
   s.rubyforge_project = "odin"
+  s.add_dependency('activesupport', '~> 2.0.1')
+  s.add_dependency('english', '~> 0.1')
+  s.add_dependency('facets', '~> 2.2.1')
+  s.add_dependency('linguistics', '~> 1.0.8')
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")

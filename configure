@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Configure build environment.
+#
+# @author Benjamin Oakes <hello@benjaminoakes.com>
+
+echo "[$0] starting"
+bundle install
+echo "[$0] finished"
