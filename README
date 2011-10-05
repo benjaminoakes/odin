@@ -1,0 +1,7 @@
+Usage: ruby check_grammar.rb file_name
+Output saved to file_name.checked.html
+ 
+There are some test files in "test/fixtures/"
+Run unit and functional tests with "rake test"
+
+For licensing information, including the licenses for other included projects, please see the "LICENSE" file.

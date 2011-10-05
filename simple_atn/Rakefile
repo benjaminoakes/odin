@@ -1,0 +1,9 @@
+task :default => "test"
+task :test => ["test:units"]
+
+namespace "test" do
+  task :units do
+    require 'rake/runtest'
+    Rake.run_tests "*_test.rb"
+  end
+end
