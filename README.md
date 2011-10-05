@@ -7,6 +7,6 @@ Odin is an **ATN** (Augmented Transition Network) based parser for natural langu
 
 If interested, please become a watcher.
 
-It's based on a project I made for a Computational Linguistics course at the University of Iowa (taught by now-retired [Professor Oden][oden], hence the name).  I have the code written already, so if you don't see it here, just send me a message and I'll get it pushed.
+It's based on a project I made for a Computational Linguistics course at the University of Iowa (taught by now-retired [Professor Oden][oden], hence the name) back in 2007.  It's not the earliest "serious" Ruby code I've written, but it's pretty close.
 
   [oden]: http://cs.uiowa.edu/~oden
