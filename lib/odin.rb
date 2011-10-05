@@ -1,3 +1,3 @@
 module Odin
-  # Your code goes here...
+  autoload :VERSION, 'odin/version'
 end
