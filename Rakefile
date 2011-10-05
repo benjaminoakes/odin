@@ -1,4 +1,8 @@
-require "find"
+require 'rubygems'
+require 'bundler'
+require 'find'
+
+Bundler::GemHelper.install_tasks
 
 # TODO switch to using "import"
 def require_files(directory)

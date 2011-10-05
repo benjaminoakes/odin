@@ -1,0 +1,3 @@
+module Odin
+  VERSION = "0.0.1"
+end
