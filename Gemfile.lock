@@ -16,9 +16,11 @@ GEM
     facets (2.2.1)
     language (0.6.0)
     linguistics (1.0.9)
+    rake (0.8.7)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   odin!
+  rake (~> 0.8.7)
