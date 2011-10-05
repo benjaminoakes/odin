@@ -4,6 +4,7 @@ Odin
 ![Odin Esper from Final Fantasy VI](https://github.com/benjaminoakes/odin/raw/master/images/odin-ff6.gif)
 
 ![Build Status](http://travis-ci.org/benjaminoakes/odin.png)
+![Still Maintained?](http://stillmaintained.com/benjaminoakes/odin.png)
 
 Odin is an **ATN** (Augmented Transition Network) based parser for natural languages with basic part of speech tagging and word-sense disambiguation. Currently, the only supported language is English, but other languages can be added.
 
@@ -25,6 +26,8 @@ This is based on a project I made for a Computational Linguistics course at the 
 
 Contributing
 ------------
+
+I'm not actively developing Odin right now, but if you have a use for it and you'd like to be a maintainer, please let me know.
 
 You can run unit and functional tests with `rake test`.
 
