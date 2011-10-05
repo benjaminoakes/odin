@@ -7,7 +7,12 @@ Odin is an **ATN** (Augmented Transition Network) based parser for natural langu
 
 If interested, please become a watcher.
 
-Copyright © 2007-2011 Benjamin Oakes <hello@benjaminoakes.com>
+Usage
+-----
+
+    ruby check_grammar.rb file_name
+
+Output is saved to `file_name.checked.html`.  There are some test files in "test/fixtures/".
 
 History
 -------
@@ -16,9 +21,19 @@ This is based on a project I made for a Computational Linguistics course at the 
 
   [oden]: http://cs.uiowa.edu/~oden
 
+Contributing
+------------
+
+You can run unit and functional tests with `rake test`.
+
 Resources
 ---------
 
 The design of the `AugmentedTransitionNetwork` class was inspired by Paul Graham's implementation in Lisp.  For details on his implementation, please see the full text of his book [_On Lisp_][onlisp] (pages 309 - 320).
 
   [onlisp]: http://www.paulgraham.com/onlisptext.html
+
+License
+-------
+
+Please see the `LICENSE.md` file.
