@@ -4,6 +4,7 @@ require "odin/version"
 
 Gem::Specification.new do |s|
   s.name        = "odin"
+  s.license     = 'MIT'
   s.version     = Odin::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Benjamin Oakes"]
