@@ -4,5 +4,6 @@
 # @author Benjamin Oakes <hello@benjaminoakes.com>
 
 echo "[$0] starting"
+# gem install bundler --version '~> 1.0.21' --no-rdoc --no-ri
 bundle install
 echo "[$0] finished"
