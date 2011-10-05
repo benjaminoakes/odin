@@ -12,7 +12,7 @@ Copyright © 2007-2011 Benjamin Oakes <hello@benjaminoakes.com>
 History
 -------
 
-This is based on a project I made for a Computational Linguistics course at the University of Iowa (taught by now-retired [Professor Oden][oden], hence the name) in 2007.
+This is based on a project I made for a Computational Linguistics course at the University of Iowa (taught by now-retired [Professor Oden][oden], hence the name) back in 2007.  It's not the earliest "serious" Ruby code I've written, but it's pretty close.
 
   [oden]: http://cs.uiowa.edu/~oden
 
