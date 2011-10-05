@@ -31,6 +31,8 @@ Resources
 
 The design of the `AugmentedTransitionNetwork` class was inspired by Paul Graham's implementation in Lisp.  For details on his implementation, please see the full text of his book [_On Lisp_][onlisp] (pages 309 - 320).
 
+Also, there's a diagram of the ATN being used in `images/atn_diagram.pdf`.
+
   [onlisp]: http://www.paulgraham.com/onlisptext.html
 
 License
