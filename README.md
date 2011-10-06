@@ -8,7 +8,9 @@ Odin
 
 Odin is an **ATN** (Augmented Transition Network) based parser for natural languages with basic part of speech tagging and word-sense disambiguation. Currently, the only supported language is English, but other languages can be added.
 
-If interested, please become a watcher.
+Please also see [Raiden][], my simpler, easier-to-understand reimplementation of Odin.
+
+  [raiden]: https://github.com/benjaminoakes/raiden
 
 Usage
 -----
