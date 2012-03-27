@@ -1,6 +1,8 @@
 Odin
 ====
 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=benjaminoakes&url=https://github.com/benjaminoakes/odin&title=Odin&language=en_GB&tags=github&category=software)
+
 ![Odin Esper from Final Fantasy VI](https://github.com/benjaminoakes/odin/raw/master/images/odin-ff6.gif)
 
 ![Still Maintained?](http://stillmaintained.com/benjaminoakes/odin.png)
