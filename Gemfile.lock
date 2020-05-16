@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     odin (0.0.1)
-      activesupport (~> 2.0.1)
+      activesupport (>= 2.0.1, < 6.1.0)
       english (~> 0.1)
       facets (~> 2.2.1)
       linguistics (~> 1.0.8)
@@ -10,13 +10,24 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (2.0.5)
-    english (0.6.3)
-      language
+    activesupport (6.0.3)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 0.7, < 2)
+      minitest (~> 5.1)
+      tzinfo (~> 1.1)
+      zeitwerk (~> 2.2, >= 2.2.2)
+    concurrent-ruby (1.1.6)
+    english (0.7.0)
     facets (2.2.1)
-    language (0.6.0)
+    i18n (1.8.2)
+      concurrent-ruby (~> 1.0)
     linguistics (1.0.9)
+    minitest (5.14.1)
     rake (0.8.7)
+    thread_safe (0.3.6)
+    tzinfo (1.2.7)
+      thread_safe (~> 0.1)
+    zeitwerk (2.3.0)
 
 PLATFORMS
   ruby

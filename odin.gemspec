@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = s.summary
 
   s.rubyforge_project = "odin"
-  s.add_dependency('activesupport', '~> 2.0.1')
+  s.add_dependency('activesupport', '>= 2.0.1', '< 6.1.0')
   s.add_dependency('english', '~> 0.1')
   s.add_dependency('facets', '~> 2.2.1')
   s.add_dependency('linguistics', '~> 1.0.8')
